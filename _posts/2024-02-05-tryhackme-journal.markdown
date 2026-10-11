@@ -2,7 +2,8 @@
 layout: default
 modal-id: 6
 title: TryHackMe Journal
-img: tryhackme.png
+img: <img width="650" height="396" alt="Coming_Soon_1000_3x8__09761-2" src="https://github.com/user-attachments/assets/8b231fbd-d621-4f80-897b-e3f51f1f00ba" />
+
 alt: image-alt
 
 # Add the link to your journal below
