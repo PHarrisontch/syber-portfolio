@@ -2,8 +2,7 @@
 layout: default
 modal-id: 1
 title: Security Audit
-img: <img width="30" height="45" alt="Image" src="https://github.com/user-attachments/assets/73979ae0-34a1-4547-a54d-8b0db9396b49" />
-
+img: Coming soon.jpg
 alt: image-alt
 
 # Reminder: Update this link with your own project link
