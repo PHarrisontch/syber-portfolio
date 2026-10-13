@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 title: Incident Handlers Journal
-img: <img width="650" height="396" alt="Coming_Soon_1000_3x8__09761-2" src="https://github.com/user-attachments/assets/bfa93a74-ccb1-46f8-b71d-c9885c0a6cc1" />
+img: COMING SOON
 
 alt: image-alt
 
