@@ -2,9 +2,9 @@
 layout: default
 modal-id: 6
 title: TryHackMe Journal
-img: img/portfolio/Coming soon.png
+img: Coming soon.png
 
-alt: image-alt
+alt: COMING SOON-alt
 
 # Add the link to your journal below
 project-url: 
