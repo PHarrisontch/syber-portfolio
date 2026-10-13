@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 title: Incident Handlers Journal
-img: COMING SOON
+img: img/portfolio/Coming soon.png
 
 alt: image-alt
 
