@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 title: TryHackMe Journal
-img: COMING SOON
+img: img/portfolio/Coming soon.png
 
 alt: image-alt
 
