@@ -2,9 +2,9 @@
 layout: default
 modal-id: 3
 title: SQL Query
-img: img/portfolio/Coming soon.png
+img: Coming soon.png
 
-alt: image-alt
+alt: COMING SOON-alt
 
 # Reminder: Update this link with your own project link
 project-url: 
