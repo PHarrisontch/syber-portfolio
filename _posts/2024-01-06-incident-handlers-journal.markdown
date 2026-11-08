@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 title: Incident Handlers Journal
-img: handlersjournal.png
+img: coming soon.png
 alt: image-alt
 
 # Add the link to your journal below
