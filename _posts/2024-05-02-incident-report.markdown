@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 title: Incident Report
 img: incident.png
+alt: image-alt
 
 # Reminder: Update this link with your own project link
 project-url: (https://docs.google.com/document/d/1m60sBWOqh5O8FruI_s0Ry5DOSKH27gg2AwCLbyEOPrQ/edit?tab=t.0)
